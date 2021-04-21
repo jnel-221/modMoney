@@ -38,7 +38,7 @@ self.addEventListener('activate', function(evt) {
         );
       })
     );
-  // Tells our new service worker to take over.
+  // Tells service worker to take over.
     self.clients.claim();
   })
 
