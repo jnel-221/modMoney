@@ -31,6 +31,7 @@ First, clone the repo and save it to your local environment. Next, run npm i to 
 Featuring an intuitive UI, the user simply enters the name and amount of the expense or credit and clicks the button to either subtract or add funds to their budget. If they're working offline, data will be stored in the indexedDB until a network connection is re-established.  When back online, the stored data is sent to the user's database, allowing the user to budget on the go.
 
 Simple demo:
+
 ![gifdemo](./assets/BudgetTracker.gif)
 
 Screenshot:
